@@ -1,0 +1,21 @@
+{
+  "name": "projectgame",
+  "version": "1.0.0",
+  "description": "a simple video game",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo src/main.js:build.js --live"  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/redragon19951/projectGame.git"
+  },
+  "keywords": [
+    "game",
+    "project"
+  ],
+  "author": "Georgi Kostadinov",
+  "license": "ISC",
+  "devDependencies": {
+    "budo": "^11.3.0"
+  }
+}
